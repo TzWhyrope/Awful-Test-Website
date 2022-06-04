@@ -1,0 +1,17 @@
+#title{
+    color: #00ffff;
+}
+.biggestjuice{
+    color: #8a2be2;
+    padding: 1rem 0;
+    margin: 2rem 0;
+}
+.juice{
+    color: #b8860b;
+    font-size: xx-large;
+}
+.martin{
+    display: flex;
+    justify-content: space-between;
+    background-color: hsl(212, 89%, 38%);
+}
